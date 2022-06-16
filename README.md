@@ -8,12 +8,12 @@ Neoscrypt hash in C wrapped in python module
 It can be installed or built with python 2 or 3. Just use the right python version to install or build.
 
 # Install
-python 2: python setup.py install
-python 3: python3 setup.py install
+python 2: `python setup.py install`
+python 3: `python3 setup.py install`
 
 # Build
-python 2: python setup.py build
-python 3: python3 setup.py build
+python 2: `python setup.py build`
+python 3: `python3 setup.py build`
 
 # Using the module
 `import neoscrypt`
