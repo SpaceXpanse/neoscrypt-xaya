@@ -1,9 +1,9 @@
-# Neoscrypt Python Module
+# Neoscrypt-xaya Python Module
 
-This package defines a simple Python module for the Neoscrypt PoW hash
+This package defines a simple Python module for the Neoscrypt-xaya PoW hash
 function, as used by SpaceXpanse ROD and other blockchains.
 
-Neoscrypt hash in C wrapped in python module
+Neoscrypt-xaya hash in C wrapped in python module
 
 It can be installed or built with python 2 or 3. Just use the right python version to install or build.
 
